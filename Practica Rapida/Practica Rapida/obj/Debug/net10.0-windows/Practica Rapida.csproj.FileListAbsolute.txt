@@ -1,0 +1,18 @@
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\bin\Debug\net10.0-windows\Practica Rapida.exe
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\bin\Debug\net10.0-windows\Practica Rapida.deps.json
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\bin\Debug\net10.0-windows\Practica Rapida.runtimeconfig.json
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\bin\Debug\net10.0-windows\Practica Rapida.dll
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\bin\Debug\net10.0-windows\Practica Rapida.pdb
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\obj\Debug\net10.0-windows\Practica_Rapida.Form1.resources
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\obj\Debug\net10.0-windows\Practica_Rapida.Properties.Resources.resources
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\obj\Debug\net10.0-windows\Practica Rapida.csproj.GenerateResource.cache
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\obj\Debug\net10.0-windows\Practica Rapida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\obj\Debug\net10.0-windows\Practica Rapida.AssemblyInfoInputs.cache
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\obj\Debug\net10.0-windows\Practica Rapida.AssemblyInfo.cs
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\obj\Debug\net10.0-windows\Practica Rapida.csproj.CoreCompileInputs.cache
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\obj\Debug\net10.0-windows\Practica Rapida.dll
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\obj\Debug\net10.0-windows\refint\Practica Rapida.dll
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\obj\Debug\net10.0-windows\Practica Rapida.pdb
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\obj\Debug\net10.0-windows\Practica Rapida.genruntimeconfig.cache
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\obj\Debug\net10.0-windows\ref\Practica Rapida.dll
+C:\Users\PC5\source\repos\Practica Rapida\Practica Rapida\obj\Debug\net10.0-windows\Practica.2DB62491.Up2Date
